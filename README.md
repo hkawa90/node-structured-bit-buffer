@@ -1,2 +1,2 @@
-# StructuredBitBuffer
-The StructuredBitBuffer provide some bitwise operation.
+# node-structured-bit-buffer
+The node-structured-bit-buffer provide some bitwise operation.
